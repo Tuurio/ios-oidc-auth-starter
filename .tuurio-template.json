@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_ios",
+  "sourceSha": "b7582d09518ce261a97ce8daaaf52a636b4eb60f",
+  "templateId": "ios",
+  "managedFiles": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "99665eb576ced91d672e1ebcb5a221d5516dc79f8cab986aff7227f5fb52e539"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "c0776051a91227894f43f2584899565d22f4efd413931edcedf5bc1b97e95b7d"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "3ff5a08fa247397363cc8214b608865100ef63f3037643beaa18e95a290cdf0b"
+    },
+    {
+      "path": "TuurioAuthSample/AppDelegate.swift",
+      "sha256": "f132a56568b487ffa8ba5c53619bdd1aeb61dc0f262576aeba2ef60e3356c744"
+    },
+    {
+      "path": "TuurioAuthSample/AuthConfig.swift",
+      "sha256": "c2354220947ba0264508dc85dd66552e412ed2d1bb46bd984eddf6f169b16bf7"
+    },
+    {
+      "path": "TuurioAuthSample/AuthService.swift",
+      "sha256": "f5a419c1ae85bcb5aade309e02240b02ae7d96be426d836740d688da5f298e25"
+    },
+    {
+      "path": "TuurioAuthSample/AuthSession.swift",
+      "sha256": "9e9994971bd48c7f053079d30a1f3cab777e802f686ffd016704163d623ca2cd"
+    },
+    {
+      "path": "TuurioAuthSample/ContentView.swift",
+      "sha256": "d160d6cce2d2012573f88ce202557a4573f375a045087693c356403713c2b2c4"
+    },
+    {
+      "path": "TuurioAuthSample/SessionStorage.swift",
+      "sha256": "5740e797b0015ffb1cb9659fb79c874ad89f7bd90653a110ac194cfd7b6d70f2"
+    },
+    {
+      "path": "TuurioAuthSample/Theme.swift",
+      "sha256": "9d11c1c0bbbe34298610a4543c79803ca0d66a66347c09279455291ec20a0a1d"
+    },
+    {
+      "path": "TuurioAuthSample/TuurioAuthSampleApp.swift",
+      "sha256": "a03f75be050ef46b37388a11fae8d1293f22004f1bfb2cb39c21765fa3c8742f"
+    }
+  ]
+}
