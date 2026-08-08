@@ -2,10 +2,18 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_ios",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "c6a191788437031a69550c3bc6acc12cfb4e4cfb6115234c6ad819516ae5f848",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "9ab9fc69e70fb0fb7a839ceea9cabb8adbf2f7fbe697cff6474b6a6d330dc6af",
   "templateId": "ios",
   "managedFiles": [
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "bbd6ddf6a86ac395fbce9a3014d677e1557ca8654f1387e0e877c3a7bdbd4a32"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "27ceac5ee331a8f88e07d366cfaab59372ed2395e74f7f16b9c1bb52682f2b2c"
+    },
     {
       "path": ".github/workflows/verify.yml",
       "sha256": "99665eb576ced91d672e1ebcb5a221d5516dc79f8cab986aff7227f5fb52e539"
@@ -20,7 +28,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "3ff5a08fa247397363cc8214b608865100ef63f3037643beaa18e95a290cdf0b"
+      "sha256": "7abd2fe11e2fd4911b9905ce6e12bc9c0c41310dbea2dc88a1e3df0baefc05d0"
     },
     {
       "path": "TuurioAuthSample/AppDelegate.swift",

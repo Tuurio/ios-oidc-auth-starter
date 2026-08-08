@@ -4,6 +4,8 @@ SwiftUI authentication starter for Tuurio ID using AppAuth, Authorization Code, 
 
 [![Verify template](https://github.com/Tuurio/ios-oidc-auth-starter/actions/workflows/verify.yml/badge.svg)](https://github.com/Tuurio/ios-oidc-auth-starter/actions/workflows/verify.yml)
 
+![iOS OIDC Auth Starter social preview](.github/social-preview.png)
+
 > Generated from [`Tuurio/auth_samples/auth_samples_ios`](https://github.com/Tuurio/auth_samples/tree/main/auth_samples_ios). Submit implementation fixes upstream so they are not replaced by the next synchronized release.
 
 ## What you get
